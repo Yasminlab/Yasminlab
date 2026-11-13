@@ -1,16 +1,23 @@
-## Hi there 👋
+#Yasmin Stephany Ribeiro Nobrega Pires
 
-<!--
-**Yasminlab/Yasminlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Técnico em Ciência de Dados. 
 
-Here are some ideas to get you started:
+**Olá! Sou a Yasmin Nobrega, estudante do curso Técnico em Ciência de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse pela área de tecnologia e estou sempre buscando aprender coisas novas, desenvolver minhas habilidades e conhecer melhor o mundo da programação e da análise de dados. Ainda estou no início da minha jornada profissional, mas acredito que cada aprendizado e projeto é uma oportunidade de evoluir. Aqui compartilho um pouco do que venho estudando, minhas atividades e meus projetos desenvolvidos ao longo do curso.**
+
+#Ferramentas
+
+-Python
+
+-Jupyter Notebook
+
+-Excel
+
+-Google colab
+
+-Github
+
+-Word
+
+#Linkedin:www.linkedin.com/in/yasmin-ribeiro-nobrega-711746388
